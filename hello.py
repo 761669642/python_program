@@ -4,7 +4,7 @@ b = 2.0
 c = 10000000000000000000000000000000000000000
 d = "what's your problem"
 e = "  There is a space  "
-print("Hello world\n")
+print("Hello world",)
 print (a)
 print ("a = %d" % a)
 print (b)
